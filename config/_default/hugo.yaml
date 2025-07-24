@@ -3,16 +3,18 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pierrick Le Vourc'h # Website name
-baseURL: 'https://example.com' # Website URL
+# Website name
+title: Hugo Academic CV Theme
+# Website URL
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: fr
+defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
@@ -30,13 +32,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, blacklinks]
+  home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -44,26 +43,14 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  tag: tags
-  category: categories
-  publication_type: publication_types
   author: authors
+  tag: tags
+  publication_type: publication_types
 markup:
   _merge: deep
   highlight:
     lineNos: false
-#related:
-#  threshold: 80
-#  includeNewer: true
-#  toLower: true
-#  indices:
-#    - name: tags
-#      weight: 100
-#    - name: categories
-#      weight: 70
 security:
   _merge: deep
 sitemap:
   _merge: deep
-#minify:
-#  _merge: deep
