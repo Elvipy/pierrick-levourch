@@ -19,9 +19,12 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+build:
+  writeStats: true
 enableGitInfo: false
 summaryLength: 30
-pagination.pagerSize: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -33,11 +36,11 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, headers, redirects, blacklinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -47,18 +50,20 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
+  highlight:
+    lineNos: false
+#related:
+#  threshold: 80
+#  includeNewer: true
+#  toLower: true
+#  indices:
+#    - name: tags
+#      weight: 100
+#    - name: categories
+#      weight: 70
 security:
   _merge: deep
 sitemap:
   _merge: deep
-minify:
-  _merge: deep
+#minify:
+#  _merge: deep
