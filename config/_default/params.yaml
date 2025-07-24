@@ -21,7 +21,7 @@ marketing:
     description: Site personnel de Pierrick Le Vourc'h, doctorant en mathématiques
     #twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    #google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
