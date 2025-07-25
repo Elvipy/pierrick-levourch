@@ -32,7 +32,7 @@ tags:
 - Thin-film approximation
 - Stratified flows
 
-featured: true
+featured: false
 
 url_pdf: https://arxiv.org/pdf/2506.08542
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
