@@ -17,11 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger mon CV
-        url: uploads/cv_fr.pdf
+        url: https://elvipy.github.io/pierrick-levourch/static/uploads/cv_fr.pdf
     design:
       css_class: dark
       background:
-        color: black
+        color: blueviolet
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -36,7 +36,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation
@@ -46,7 +46,7 @@ sections:
       title: Exposés
       filters:
         folders:
-          - event
+          - exposes
     design:
       view: article-grid
       columns: 1
