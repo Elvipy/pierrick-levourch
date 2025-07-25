@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger mon CV
-        url: https://elvipy.github.io/pierrick-levourch/static/uploads/cv_fr.pdf
+        url: https://elvipy.github.io/pierrick-levourch/uploads/cv_fr.pdf
     design:
       css_class: dark
       background:
@@ -39,7 +39,7 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: citation
+      view: article-grid
   - block: collection
     id: exposes
     content:
