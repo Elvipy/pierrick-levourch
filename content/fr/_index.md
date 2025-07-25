@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: blueviolet
+        color: indigo
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -41,6 +41,8 @@ sections:
     design:
       view: article-grid
       columns: 1
+      background:
+        color: indigo
   - block: collection
     id: exposes
     content:
@@ -51,6 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 1
+      background:
+        color: indigo
 #  - block: contact
 #    id: contact
 #    content:

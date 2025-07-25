@@ -7,10 +7,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  css_class: dark
-  background:
-    color: blueviolet
-
 sections:
   - block: resume-biography-3
     content:
@@ -24,7 +20,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: blueviolet
+        color: indigo
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -44,6 +40,8 @@ sections:
     design:
       view: article-grid
       columns: 1
+      background:
+        color: indigo
   - block: collection
     id: talks
     content:
@@ -54,6 +52,8 @@ sections:
     design:
       view: article-grid
       columns: 1
+      background:
+        color: indigo
 #  - block: contact
 #    id: contact
 #    content:
