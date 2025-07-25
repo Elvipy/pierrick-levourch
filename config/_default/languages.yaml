@@ -18,15 +18,18 @@ en:
     description: English description of the site.
   menu:
     main:
+      - name: Home and contact
+        url: '#about'
+        weight: 10
       - name: Publications
         url: publications/
-        weight: 10
+        weight: 20
       - name: Teaching
         url: enseignements/
-        weight: 20
+        weight: 30
       - name: Talks
         url: exposes/
-        weight: 30
+        weight: 40
       - name: Documents
         url: documents/
-        weight: 40
+        weight: 50
