@@ -15,17 +15,17 @@ sections:
       title: 2023-2024
       text: |-
         {{% spoiler text="Supervision of mathematics exercice sessions in a Bachelor in Engineering Mechanics at the University of Lyon." %}}
-        - [Document about complex numbers and polynomials](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-docrev.pdf)
+        - [Document about complex numbers and polynomials](https://elvipy.github.io/pierrick-levourch/uploads/2223-docrev.pdf)
 
-        - [Test n°1: Complex numbers and polynomials](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle1.pdf)
+        - [Test n°1: Complex numbers and polynomials](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle1.pdf)
 
-        - [Test SAE: Vector spaces](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-sae.pdf)
+        - [Test SAE: Vector spaces](https://elvipy.github.io/pierrick-levourch/uploads/2223-sae.pdf)
 
-        - [Test n°2: Vector spaces, Linear mapping, Matrixes, Determinants and Diagonalization](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle2.pdf)
+        - [Test n°2: Vector spaces, Linear mapping, Matrixes, Determinants and Diagonalization](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle2.pdf)
 
-        - [Test n°3: Fonction studies, Inverse trigonometric functions, Taylor expansions](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle3.pdf)
+        - [Test n°3: Fonction studies, Inverse trigonometric functions, Taylor expansions](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle3.pdf)
 
-        - [Test n°4: Partial fraction decomposition, Integration](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle4.pdf)
+        - [Test n°4: Partial fraction decomposition, Integration](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle4.pdf)
         {{% /spoiler %}}
     design:
       columns: '2'

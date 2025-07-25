@@ -15,17 +15,17 @@ sections:
       title: 2023-2024
       text: |-
         {{% spoiler text="Enseignement de mathématiques en première année de BUT Génie Mécanique et Productique à l'Université Claude Bernard Lyon 1." %}}
-        - [Document sur les nombres complexes et les polynômes](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-docrev.pdf)
+        - [Document sur les nombres complexes et les polynômes](https://elvipy.github.io/pierrick-levourch/uploads/2223-docrev.pdf)
 
-        - [Contrôle n°1 : nombres complexes et les polynômes](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle1.pdf)
+        - [Contrôle n°1 : nombres complexes et les polynômes](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle1.pdf)
 
-        - [Contrôle SAE : espaces vectoriels](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-sae.pdf)
+        - [Contrôle SAE : espaces vectoriels](https://elvipy.github.io/pierrick-levourch/uploads/2223-sae.pdf)
 
-        - [Contrôle n°2 : espaces vectoriels, applications linéaires, matrices, déterminants et diagonalisation](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle2.pdf)
+        - [Contrôle n°2 : espaces vectoriels, applications linéaires, matrices, déterminants et diagonalisation](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle2.pdf)
 
-        - [Contrôle n°3 : études de fonctions, fonctions trigonométriques réciproques et développements limités](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle1.pdf)
+        - [Contrôle n°3 : études de fonctions, fonctions trigonométriques réciproques et développements limités](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle1.pdf)
 
-        - [Contrôle n°4 : décomposition en éléments simples, intégration](https://elvipy.github.io/pierrick-levourch/static/uploads/2223-controle4.pdf)
+        - [Contrôle n°4 : décomposition en éléments simples, intégration](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle4.pdf)
         {{% /spoiler %}}
     design:
       columns: '2'

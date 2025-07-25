@@ -40,6 +40,7 @@ sections:
         exclude_featured: false
     design:
       view: article-grid
+      columns: 1
   - block: collection
     id: exposes
     content:

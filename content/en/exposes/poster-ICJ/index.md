@@ -13,5 +13,5 @@ publication_types:
 - poster
 abstract: This poster explains the work I have done during my master's internship and the first months of my PhD. It presents a formal derivation of an averaged model from the compressible barotropic Navier-Stokes equations for a stratified bifluid flow.
 
-url_poster: 'https://elvipy.github.io/pierrick-levourch/static/uploads/24-poster_ICJ.pdf'
+url_poster: 'https://elvipy.github.io/pierrick-levourch/uploads/24-poster_ICJ.pdf'
 ---
