@@ -19,7 +19,7 @@ en:
   menu:
     main:
       - name: Home and contact
-        url: '/#about'
+        url: '/'
         weight: 10
       - name: Publications
         url: publications/

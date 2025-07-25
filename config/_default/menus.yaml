@@ -5,7 +5,7 @@
 
 main:
   - name: Accueil et contact
-    url: '/#apropos'
+    url: '/'
     weight: 10
   - name: Publications
     url: publications/
