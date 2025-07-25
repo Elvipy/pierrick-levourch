@@ -34,9 +34,6 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2506.08542
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'

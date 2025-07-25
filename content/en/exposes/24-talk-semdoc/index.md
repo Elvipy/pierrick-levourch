@@ -42,7 +42,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 #   url_code: 'https://github.com'
 #   url_pdf: ''
-url_slides: 'uploads/24-semdoc_ICJ.pdf'
+url_slides: 'https://elvipy.github.io/pierrick-levourch/static/uploads/24-semdoc_ICJ.pdf'
 #   url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
