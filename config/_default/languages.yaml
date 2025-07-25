@@ -19,7 +19,7 @@ en:
   menu:
     main:
       - name: Home and contact
-        url: 'https://elvipy.github.io/pierrick-levourch/en/#about'
+        url: '/#about'
         weight: 10
       - name: Publications
         url: publications/
