@@ -3,20 +3,33 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+fr:
+  languageCode: fr
+  contentDir: content/fr
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Pierrick Le Vourc'h
+  params:
+    description: English description of the site.
+  menu:
+    main:
+      - name: Home and contact
+        url: '#about'
+        weight: 10
+      - name: Publications
+        url: publications/
+        weight: 20
+      - name: Teaching
+        url: enseignements/
+        weight: 30
+      - name: Talks
+        url: exposes/
+        weight: 40
+      - name: Documents
+        url: documents/
+        weight: 50
