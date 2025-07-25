@@ -2,6 +2,9 @@
 title: "Averaged Models for Compressible Two-Phase Stratified Flows on Thin Domains"
 authors:
 - admin
+- Khaled Saleh
+- Nicolas Seguin
+
 date: "2025-06-04T00:00:00Z"
 doi: ""
 
