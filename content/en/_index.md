@@ -50,35 +50,35 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: contact
-    id: contact
-    content:
-      title: Contact
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
       # Contact (add or remove contact options as necessary)
-      email: pierrick.le-vourc-h@umontpellier.fr
+#      email: pierrick.le-vourc-h@umontpellier.fr
       #phone: 888 888 88 88
-      address:
-        street: Place Eugène Bataillon
-        city: Montpellier
+#      address:
+#        street: Place Eugène Bataillon
+#        city: Montpellier
         # region: CA
-        postcode: '34090'
-        country: France
+#        postcode: '34090'
+#        country: France
       # country_code: US
-      directions: Enter building 9 and take the stairs to Office 130 on Floor 1      
+#      directions: Enter building 9 and take the stairs to Office 130 on Floor 1      
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: 43.63117878118292
-        longitude: 3.8663403106686034  
+#      coordinates:
+#        latitude: 43.63117878118292
+#        longitude: 3.8663403106686034  
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+#          captcha: false
+#    design:
+#      columns: '2'
 ---

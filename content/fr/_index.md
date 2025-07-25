@@ -50,21 +50,21 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      email: pierrick.le-vourc-h@umontpellier.fr
-      address: 
-        street: Place Eugène Bataillon
-        city: Montpellier
-        postcode: '34090'
-        country: France
-      directions: Entrer dans le bâtiment 9 et trouver le bureau 130 au premier étage.
-      coordinates:
-        latitude: 43.63117878118292
-        longitude: 3.8663403106686034
-      autolink: true
-    design:
-      colums: '2'
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      email: pierrick.le-vourc-h@umontpellier.fr
+#      address: 
+#        street: Place Eugène Bataillon
+#        city: Montpellier
+#        postcode: '34090'
+#        country: France
+#      directions: Entrer dans le bâtiment 9 et trouver le bureau 130 au premier étage.
+#      coordinates:
+#        latitude: 43.63117878118292
+#        longitude: 3.8663403106686034
+#      autolink: true
+#    design:
+#      colums: '2'
 ---
