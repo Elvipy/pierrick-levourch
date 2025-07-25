@@ -40,8 +40,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-      background:
-        color: indigo
   - block: collection
     id: talks
     content:
@@ -52,8 +50,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-      background:
-        color: indigo
 #  - block: contact
 #    id: contact
 #    content:
