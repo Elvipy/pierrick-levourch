@@ -23,8 +23,10 @@ role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institut Montpelliérain Alexander Grothendieck
+  - name: IMAG
     url: https://imag.umontpellier.fr/
+  - name: Angus (Inria)
+    url: https://team.inria.fr/angus/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
