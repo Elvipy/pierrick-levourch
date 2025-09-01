@@ -20,6 +20,9 @@ sections:
         url: https://elvipy.github.io/pierrick-levourch/uploads/cv_fr.pdf
     design:
       css_class: dark
+      avatar:
+        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
       background:
         #color: indigo
         image:
@@ -52,10 +55,10 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: contact
-    id: contact
-    content:
-      title: Contact
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
 #      email: pierrick.le-vourc-h@umontpellier.fr
 #      address: 
 #        street: Place Eugène Bataillon
@@ -67,6 +70,6 @@ sections:
 #        latitude: 43.63117878118292
 #        longitude: 3.8663403106686034
 #      autolink: true
-    design:
-      colums: '2'
+#    design:
+#      colums: '2'
 ---
