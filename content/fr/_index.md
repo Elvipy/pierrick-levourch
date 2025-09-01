@@ -52,10 +52,10 @@ sections:
     design:
       view: article-grid
       columns: 1
-#  - block: contact
-#    id: contact
-#    content:
-#      title: Contact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
 #      email: pierrick.le-vourc-h@umontpellier.fr
 #      address: 
 #        street: Place Eugène Bataillon
@@ -67,6 +67,6 @@ sections:
 #        latitude: 43.63117878118292
 #        longitude: 3.8663403106686034
 #      autolink: true
-#    design:
-#      colums: '2'
+    design:
+      colums: '2'
 ---
