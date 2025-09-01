@@ -1,6 +1,6 @@
 ---
 # Leave the title empty to use the site title
-title: 'Teaching'
+title: Teaching
 date: 2022-10-24
 type: landing
 
@@ -10,6 +10,15 @@ banner:
   image: ''
 
 sections:
+  - block: markdown
+    content:
+      title: 2024-2025
+      text: |-
+        {{% spoiler text="Supervision of mathematics exercice sessions in mathematics and biology bachelors at Montpellier University." %}}
+        - For more details and resources, go to the Moodle.
+        {{% /spoiler %}}
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: 2023-2024
@@ -26,15 +35,6 @@ sections:
         - [Test n°3: Fonction studies, Inverse trigonometric functions, Taylor expansions](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle3.pdf)
 
         - [Test n°4: Partial fraction decomposition, Integration](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle4.pdf)
-        {{% /spoiler %}}
-    design:
-      columns: '2'
-  - block: markdown
-    content:
-      title: 2024-2025
-      text: |-
-        {{% spoiler text="Supervision of mathematics exercice sessions in mathematics and biology bachelors at Montpellier University." %}}
-        - For more details and resources, go to the Moodle.
         {{% /spoiler %}}
     design:
       columns: '2'
