@@ -1,6 +1,6 @@
 ---
 # Leave the title empty to use the site title
-title: ''
+title: Enseignements
 date: 2022-10-24
 type: landing
 
@@ -10,6 +10,15 @@ banner:
   image: ''
 
 sections:
+  - block: markdown
+    content:
+      title: 2024-2025
+      text: |-
+        {{% spoiler text="Enseignement de mathématiques (L1, L2 de mathématiques et L1 de sciences de la vie) à l'Université de Montpellier." %}}
+        - Pour plus de détails et éventuellement des corrections d'exercices, rendez-vous sur le Moodle.
+        {{% /spoiler %}}
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: 2023-2024
@@ -26,15 +35,6 @@ sections:
         - [Contrôle n°3 : études de fonctions, fonctions trigonométriques réciproques et développements limités](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle3.pdf)
 
         - [Contrôle n°4 : décomposition en éléments simples, intégration](https://elvipy.github.io/pierrick-levourch/uploads/2223-controle4.pdf)
-        {{% /spoiler %}}
-    design:
-      columns: '2'
-  - block: markdown
-    content:
-      title: 2024-2025
-      text: |-
-        {{% spoiler text="Enseignement de mathématiques (L1, L2 de mathématiques et L1 de sciences de la vie) à l'Université de Montpellier." %}}
-        - Pour plus de détails et éventuellement des corrections d'exercices, rendez-vous sur le Moodle.
         {{% /spoiler %}}
     design:
       columns: '2'
