@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctorant en modélisation mathématique pour la mécanique des fluides
+role: Doctorant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
