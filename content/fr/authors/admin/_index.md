@@ -137,5 +137,5 @@ education:
 
 ## About Me
 
-Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (ICJ, Lyon).
+Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (I2M, Marseille). Je fais partie de l'[équipe Angus de l'Inria](https://team.inria.fr/angus/).
 {style="text-align: justify;"}
