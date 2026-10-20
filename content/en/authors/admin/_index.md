@@ -39,11 +39,8 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-#interests:
-#  - Compressible fluids
-#  - Multiphase flows
-#  - Hyperbolic PDEs
-#  - Numerical analysis
+interests:
+  - "2026-2027: **Temporary Research and Teaching Attaché**, Montpellier University"
 
 education:
   - area: PhD in mathematics
@@ -56,13 +53,13 @@ education:
     institution: ENS de Lyon
     year: 2021-2022
 
-work:
-  - position: Temporary Research and Teaching Attaché (ATER)
-    company_name: IMAG, Université de Montpellier
+#work:
+#  - position: Temporary Research and Teaching Attaché (ATER)
+#    company_name: IMAG, Université de Montpellier
 #    company_url: ''
 #    company_logo: ''
-    date_start: 2026-09-01
-    date_end: 2027-08-31
+#    date_start: 2026-09-01
+#    date_end: 2027-08-31
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit

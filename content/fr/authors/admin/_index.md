@@ -39,11 +39,8 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-#interests:
-#  - Fluides compressibles
-#  - Écoulements multiphasiques
-#  - EDPs hyperboliques
-#  - Analyse numériques
+interests:
+  - "2026-2027 : **Attaché Temporaire d'Enseignement et de Recherche**, Université de Montpellier"
 
 education:
   - area: Doctorat en mathématiques
@@ -56,13 +53,13 @@ education:
     institution: ENS de Lyon
     year: 2021-2022
 
-work:
-  - position: Attaché Temporaire d'Enseignement et de Recherche
-    company_name: IMAG, Université de Montpellier
+#work:
+#  - position: Attaché Temporaire d'Enseignement et de Recherche
+#    company_name: IMAG, Université de Montpellier
 #    company_url: ''
 #    company_logo: ''
-    date_start: 2026-09-01
-    date_end: 2027-08-31
+#    date_start: 2026-09-01
+#    date_end: 2027-08-31
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit

@@ -14,6 +14,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      headings:
+        interests: Expérience
+        education: Formation
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger mon CV
@@ -33,9 +36,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-experience
-    content:
-      username: admin
 
   - block: collection
     id: publications
