@@ -40,7 +40,7 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - "2026-2027: **Temporary Research and Teaching Attaché**, Montpellier University"
+  - "2026-2027: Temporary Research and Teaching Attaché, Montpellier University"
 
 education:
   - area: PhD in mathematics

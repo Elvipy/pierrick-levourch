@@ -40,7 +40,7 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - "2026-2027 : **Attaché Temporaire d'Enseignement et de Recherche**, Université de Montpellier"
+  - "2026-2027 : Attaché Temporaire d'Enseignement et de Recherche, Université de Montpellier"
 
 education:
   - area: Doctorat en mathématiques
