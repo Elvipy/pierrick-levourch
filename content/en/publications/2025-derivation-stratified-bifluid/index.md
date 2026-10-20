@@ -5,7 +5,7 @@ authors:
 - Khaled Saleh
 - Nicolas Seguin
 
-date: "2025-06-04T00:00:00Z"
+date: "2026-05-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ tags:
 
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2506.08542
+url_pdf: https://hal.science/hal-05096837v2
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'

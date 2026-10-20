@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctorant
+role: ATER en mathématiques
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -56,13 +56,13 @@ education:
     institution: ENS de Lyon
     year: 2021-2022
 
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
+work:
+  - position: Attaché Temporaire d'Enseignement et de Recherche
+    company_name: IMAG, Université de Montpellier
 #    company_url: ''
 #    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
+    date_start: 2026-09-01
+    date_end: 2027-08-31
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -139,5 +139,5 @@ education:
 
 ## À propos
 
-Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (I2M, Marseille). Je fais partie de l'[équipe Angus de l'Inria](https://team.inria.fr/angus/).
+Je suis ATER travaillant sur la modélisation d'écoulements multiphasiques compressibles. Je termine en parallèle ma thèse sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (I2M, Marseille). Je fais partie de l'[équipe Angus de l'Inria](https://team.inria.fr/angus/).
 {style="text-align: justify;"}
