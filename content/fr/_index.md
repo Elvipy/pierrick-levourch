@@ -33,6 +33,10 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-experience
+    content:
+      username: admin
+
   - block: collection
     id: publications
     content:
