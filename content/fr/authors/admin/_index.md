@@ -39,11 +39,11 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - Fluides compressibles
-  - Écoulements multiphasiques
-  - EDPs hyperboliques
-  - Analyse numériques
+#interests:
+#  - Fluides compressibles
+#  - Écoulements multiphasiques
+#  - EDPs hyperboliques
+#  - Analyse numériques
 
 education:
   - area: Doctorat en mathématiques

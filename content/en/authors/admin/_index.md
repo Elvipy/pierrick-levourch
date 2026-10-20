@@ -39,11 +39,11 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - Compressible fluids
-  - Multiphase flows
-  - Hyperbolic PDEs
-  - Numerical analysis
+#interests:
+#  - Compressible fluids
+#  - Multiphase flows
+#  - Hyperbolic PDEs
+#  - Numerical analysis
 
 education:
   - area: PhD in mathematics
